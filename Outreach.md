@@ -1,4 +1,6 @@
-layout: page title: "OUTREACH" permalink: /outreach
+layout: page 
+title: "OUTREACH" 
+permalink: /outreach
 
 Science outreach is part of my work I am very passionate about. Below is a list of projects I have been involved with - please send me an email if you would like to chat about any of them!
 
